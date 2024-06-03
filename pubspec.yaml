@@ -1,0 +1,10 @@
+name: dart_bug_0b171952
+description: dart_bug_0b171952
+version: 1.0.0
+
+environment:
+  sdk: ^3.4.1
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
